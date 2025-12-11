@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Vampire’s ∞ pathoS",
+  "base_artist": "ひとしずく×やま△",
+  "createdAt": "2025-12-11T13:19:15.733901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vampires",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/01_Vampires_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vampires",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/02_Vampires_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vampires",
+      "artist": "Atmosphere",
+      "has_synced": false,
+      "path": "select/03_Vampires_Atmosphere.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vampires",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/04_Vampires_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vampires",
+      "artist": "Fastball",
+      "has_synced": true,
+      "path": "select/05_Vampires_Fastball.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If We Were Vampires",
+      "artist": "Jason Isbell and the 400 Unit",
+      "has_synced": true,
+      "path": "select/06_If_We_Were_Vampires_Jason_Isbell_and_the_400_Unit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Vampires of New York",
+      "artist": "Marcy Playground",
+      "has_synced": false,
+      "path": "select/07_The_Vampires_of_New_York_Marcy_Playground.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vampires (Afrolicious & Rob Garza Remix)",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/08_Vampires_(Afrolicious_&_Rob_Garza_Remix)_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vampires (Louie Vega House remix)",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/09_Vampires_(Louie_Vega_House_remix)_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vampires (Louie Vega Dub Remix)",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/10_Vampires_(Louie_Vega_Dub_Remix)_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Perhaps Vampires Is A Bit Strong But…",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/11_Perhaps_Vampires_Is_A_Bit_Strong_But..._Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Perhaps Vampires Is a Bit Strong But..",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/12_Perhaps_Vampires_Is_a_Bit_Strong_But.._Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breaks My Back (All The Damn Vampires Remix)",
+      "artist": "Meg Myers",
+      "has_synced": true,
+      "path": "select/13_Breaks_My_Back_(All_The_Damn_Vampires_Remix)_Meg_Myers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nosferatu (The Vampire's Waltz)",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/14_Nosferatu_(The_Vampire's_Waltz)_Saxon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vampire's ∞ pathoS",
+      "artist": "ひとしずく×やま△",
+      "has_synced": false,
+      "path": "select/pl_01_Vampire's_∞_pathoS_ひとしずく×やま△.txt"
+    }
+  ]
+}
